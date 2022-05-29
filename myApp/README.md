@@ -1,1 +1,1 @@
-This is a ReactJS project
+This is a Text utility application which provides the capability of manipulating text by allowing it to be converted to uppercase or lowercase, remove extra spaces from the text, copy the text as well as count the number of words and characters in the text.
