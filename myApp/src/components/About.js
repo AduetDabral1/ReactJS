@@ -30,7 +30,6 @@ export default function About() {
   }
   
   return (
-    <>
     <div className="container" style={myStyle}>
         <h2>About Us</h2>
         <div className="accordion" id="accordionPanelsStayOpenExample">
@@ -75,6 +74,5 @@ export default function About() {
 <button onClick={toggleStyle} className='btn btn-primary my-3'>{btnText}</button>
 </div>
 </div>
-    </>
   )
 }
